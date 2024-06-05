@@ -1,0 +1,3 @@
+Rejoignez-nous pour un atelier organisé par Data for Good et le Meetup Python de Grenoble. Durant l'atelier, vous découvrirez la conception de la base de données d'Open Food Facts, les types de données qu'elle contient et comment les récupérer facilement. Nous explorerons les multiples cas d'usage de cette base de données et créerons ensemble un modèle de recommandation en Python pour des produits alimentaires. 
+
+N’oubliez pas votre ordinateur si vous souhaitez expérimenter par vous-même ! 
