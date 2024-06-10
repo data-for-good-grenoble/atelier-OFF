@@ -17,3 +17,5 @@ Durant l'atelier, vous découvrirez la **conception** de la base de données d'O
 - **Conclusion et bilan** (15 min)
 
 N’oubliez pas votre **ordinateur** si vous souhaitez **expérimenter par vous-même** ! 💻 
+
+Pour prolonger cette **expérience pratique**, nous vous invitons à apporter un **produit à partager lors d'un apéro convivial**, où nous analyserons ensemble la **qualité nutritionnelle et environnementale** des produits consommés !
